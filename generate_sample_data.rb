@@ -11,7 +11,7 @@ require "./models/driver"
 require "./models/trip"
 require "faker"
 
-File.open("example_inputs/large_dataset.txt", "w") do |file|
+File.open("example_inputs/large_dataset_50.txt", "w") do |file|
   50.times do
     driver = Driver.new(name: Faker::Name.first_name)
     file << "Driver #{driver.name}\n"

@@ -1,0 +1,35 @@
+# frozen_string_literal: true
+
+RSpec.describe DriverReport do
+  describe "#generate" do
+    it "can handle multiple registrations" do
+      report = DriverReport.generate("./example_inputs/multiple_registrations.txt")
+
+      expected_output = "Lauren: 0 miles\nKumi: 0 miles"
+      expect(report).to eq(expected_output)
+    end
+
+    it "can handle trips without registered drivers" do
+      report = DriverReport.generate("./example_inputs/not_registered.txt")
+
+      expect(report).to eq("")
+    end
+
+    it "generates a typical report" do
+      report = DriverReport.generate("./example_inputs/problem_statement.txt")
+
+      expected_output = <<~STRING
+        Lauren: 42 miles @ 34 mph
+        Dan: 39 miles @ 47 mph
+        Kumi: 0 miles
+      STRING
+      expect(report).to eq(expected_output)
+    end
+
+    it "returns the expected number of drivers for large datasets" do
+      report = DriverReport.generate("./example_inputs/large_dataset_50.txt")
+
+      expect(report.split("\n").count).to eq(50)
+    end
+  end
+end
