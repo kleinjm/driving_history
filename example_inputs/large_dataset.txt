@@ -1,0 +1,306 @@
+Driver Ettie
+Trip Ettie 06:16 23:21 29.7
+Trip Ettie 03:04 24:20 52.4
+Trip Ettie 02:39 15:35 81.1
+Trip Ettie 10:21 24:32 4.8
+Trip Ettie 12:52 16:58 70.8
+Trip Ettie 08:50 24:43 6.2
+Driver Willis
+Trip Willis 09:30 24:24 52.0
+Trip Willis 10:12 21:53 88.4
+Driver Lucrecia
+Trip Lucrecia 12:16 21:19 35.4
+Trip Lucrecia 12:17 20:45 28.8
+Trip Lucrecia 08:11 20:40 28.4
+Trip Lucrecia 05:12 13:03 85.8
+Trip Lucrecia 04:25 15:40 57.1
+Trip Lucrecia 08:00 22:13 78.1
+Trip Lucrecia 03:23 24:57 49.2
+Driver Tracy
+Trip Tracy 01:15 22:15 14.4
+Trip Tracy 08:44 24:38 93.4
+Trip Tracy 01:46 17:28 77.2
+Trip Tracy 10:22 21:49 18.3
+Trip Tracy 07:19 23:16 67.7
+Trip Tracy 07:47 15:30 25.7
+Trip Tracy 05:51 15:35 27.0
+Trip Tracy 04:30 17:08 74.2
+Driver Malik
+Trip Malik 06:04 17:29 59.3
+Driver Coleman
+Trip Coleman 05:58 18:44 61.3
+Trip Coleman 01:17 16:09 39.6
+Trip Coleman 08:46 22:19 40.4
+Driver Keenan
+Trip Keenan 06:49 20:43 10.0
+Trip Keenan 02:31 16:06 66.0
+Trip Keenan 08:12 21:03 85.4
+Driver Alden
+Trip Alden 04:29 15:23 99.4
+Trip Alden 10:42 13:26 78.9
+Trip Alden 09:15 16:48 77.0
+Trip Alden 12:29 19:40 78.8
+Trip Alden 03:31 18:16 28.3
+Trip Alden 10:46 16:55 50.0
+Trip Alden 05:43 14:42 99.1
+Driver Adell
+Trip Adell 07:46 15:45 34.4
+Trip Adell 08:08 22:40 91.4
+Trip Adell 04:00 14:47 89.3
+Trip Adell 01:26 17:01 16.6
+Driver Ambrose
+Trip Ambrose 12:47 17:09 53.2
+Trip Ambrose 04:58 18:04 64.3
+Trip Ambrose 11:09 24:48 7.4
+Trip Ambrose 12:47 19:15 69.3
+Trip Ambrose 04:36 15:27 46.4
+Trip Ambrose 01:21 13:05 78.2
+Trip Ambrose 03:29 14:48 16.0
+Driver Arlena
+Trip Arlena 09:22 16:51 30.5
+Trip Arlena 02:53 15:31 57.5
+Driver Charles
+Trip Charles 10:20 20:36 1.4
+Trip Charles 03:32 13:32 7.2
+Trip Charles 11:42 24:25 88.5
+Trip Charles 03:55 15:15 84.1
+Trip Charles 04:13 16:16 83.3
+Driver Oralia
+Trip Oralia 05:15 21:50 82.8
+Trip Oralia 06:49 24:45 59.1
+Trip Oralia 10:44 20:41 70.5
+Trip Oralia 08:07 16:57 57.5
+Trip Oralia 03:51 17:19 84.8
+Driver Jenniffer
+Trip Jenniffer 03:56 22:20 80.1
+Driver Dannie
+Trip Dannie 08:05 16:59 21.2
+Trip Dannie 09:09 13:07 44.6
+Trip Dannie 03:55 22:31 23.5
+Trip Dannie 06:01 17:23 52.6
+Trip Dannie 04:52 16:40 11.6
+Trip Dannie 03:46 23:04 30.8
+Trip Dannie 03:14 22:48 77.9
+Driver Angelic
+Driver Wilton
+Trip Wilton 08:32 20:46 13.4
+Trip Wilton 11:01 22:28 30.8
+Trip Wilton 09:17 24:30 62.0
+Trip Wilton 06:27 22:05 69.9
+Trip Wilton 10:50 23:44 93.7
+Trip Wilton 09:25 21:27 88.0
+Driver Ardath
+Trip Ardath 02:33 16:05 17.2
+Trip Ardath 10:25 13:08 78.4
+Trip Ardath 12:15 20:23 71.4
+Trip Ardath 06:12 17:05 89.2
+Trip Ardath 06:35 13:35 26.7
+Driver Darren
+Trip Darren 04:03 24:53 77.5
+Trip Darren 01:41 21:30 85.4
+Trip Darren 02:29 21:49 51.4
+Trip Darren 10:13 19:31 93.6
+Trip Darren 08:16 18:59 93.2
+Driver Seymour
+Trip Seymour 01:48 23:10 85.5
+Trip Seymour 07:56 23:04 21.0
+Trip Seymour 04:36 18:14 41.7
+Trip Seymour 05:47 18:38 61.5
+Trip Seymour 01:40 24:03 7.7
+Trip Seymour 01:19 23:22 91.1
+Trip Seymour 10:19 13:12 95.6
+Driver Jermaine
+Trip Jermaine 12:00 16:59 14.9
+Trip Jermaine 03:05 14:29 94.0
+Trip Jermaine 08:37 19:44 86.4
+Trip Jermaine 02:46 22:28 79.1
+Trip Jermaine 08:00 20:45 36.6
+Driver Michelle
+Trip Michelle 04:56 22:14 94.5
+Trip Michelle 04:58 15:15 95.8
+Trip Michelle 08:02 17:06 93.6
+Trip Michelle 07:13 22:51 50.7
+Trip Michelle 12:33 19:39 93.7
+Driver Lyman
+Trip Lyman 03:12 24:27 89.1
+Trip Lyman 06:51 19:43 92.0
+Trip Lyman 12:37 24:46 25.7
+Trip Lyman 09:39 13:07 21.4
+Trip Lyman 05:38 13:52 17.8
+Trip Lyman 01:14 22:36 57.2
+Trip Lyman 10:00 18:19 53.9
+Trip Lyman 09:12 21:21 10.1
+Trip Lyman 04:37 24:08 15.7
+Driver Shela
+Driver Chang
+Trip Chang 02:16 17:52 97.4
+Trip Chang 10:47 23:30 57.7
+Trip Chang 03:06 18:46 34.3
+Trip Chang 08:06 15:13 41.7
+Trip Chang 01:38 20:01 80.8
+Trip Chang 12:36 15:15 34.4
+Trip Chang 10:05 17:11 77.0
+Trip Chang 06:40 15:35 40.4
+Trip Chang 01:51 19:23 6.0
+Driver Claude
+Trip Claude 03:07 14:47 43.2
+Trip Claude 01:16 20:31 6.8
+Trip Claude 07:31 23:27 34.6
+Trip Claude 04:15 14:16 93.2
+Trip Claude 10:00 20:11 91.6
+Driver Dannette
+Trip Dannette 09:56 20:18 47.8
+Trip Dannette 08:29 13:01 89.2
+Trip Dannette 07:34 14:50 37.4
+Trip Dannette 08:44 23:14 44.9
+Trip Dannette 03:12 13:49 6.2
+Trip Dannette 04:42 19:49 51.8
+Trip Dannette 11:30 15:54 18.8
+Driver Reynaldo
+Trip Reynaldo 11:41 20:06 89.7
+Trip Reynaldo 09:59 16:26 96.3
+Trip Reynaldo 01:32 18:46 24.0
+Trip Reynaldo 06:49 19:37 85.7
+Trip Reynaldo 02:40 22:48 55.4
+Trip Reynaldo 11:37 18:09 66.5
+Trip Reynaldo 03:20 15:01 91.0
+Trip Reynaldo 11:23 16:33 91.0
+Trip Reynaldo 07:34 13:19 47.2
+Driver Jeanene
+Trip Jeanene 08:44 21:36 66.1
+Trip Jeanene 11:15 16:18 1.8
+Trip Jeanene 07:20 14:46 21.2
+Trip Jeanene 04:23 19:41 50.7
+Trip Jeanene 11:13 18:09 27.9
+Driver Jerrell
+Trip Jerrell 07:45 18:16 27.4
+Trip Jerrell 12:47 17:09 53.0
+Driver Randy
+Trip Randy 12:43 14:35 66.3
+Trip Randy 01:07 19:47 63.6
+Trip Randy 11:14 19:28 2.2
+Trip Randy 06:08 13:03 52.0
+Driver Roseanna
+Trip Roseanna 07:22 14:03 95.7
+Trip Roseanna 08:34 15:19 11.9
+Trip Roseanna 07:32 18:11 1.0
+Trip Roseanna 09:45 17:38 48.2
+Trip Roseanna 02:54 18:50 74.2
+Trip Roseanna 02:04 15:53 15.1
+Trip Roseanna 04:38 22:38 38.4
+Driver Oralia
+Trip Oralia 12:45 19:46 64.4
+Trip Oralia 05:26 22:08 77.1
+Trip Oralia 11:59 16:33 69.5
+Driver Tangela
+Trip Tangela 03:11 22:22 68.6
+Trip Tangela 10:55 20:02 65.4
+Trip Tangela 01:48 23:35 64.6
+Trip Tangela 05:37 21:59 18.1
+Trip Tangela 11:15 13:08 56.9
+Driver Kenneth
+Trip Kenneth 05:49 18:20 76.4
+Trip Kenneth 08:48 23:48 20.8
+Trip Kenneth 02:45 20:35 86.0
+Trip Kenneth 07:48 20:58 94.2
+Trip Kenneth 09:14 18:17 86.2
+Trip Kenneth 09:43 14:59 35.7
+Trip Kenneth 07:00 15:28 10.4
+Trip Kenneth 07:37 13:10 40.0
+Driver Edwin
+Trip Edwin 01:59 19:50 60.3
+Trip Edwin 07:53 23:35 71.9
+Trip Edwin 07:59 22:39 24.2
+Trip Edwin 05:48 13:19 4.5
+Trip Edwin 06:13 14:42 2.6
+Trip Edwin 09:21 24:09 33.9
+Trip Edwin 11:36 13:37 98.8
+Trip Edwin 03:10 19:11 92.0
+Driver Fredrick
+Trip Fredrick 06:26 17:18 17.0
+Trip Fredrick 02:48 20:33 77.6
+Trip Fredrick 04:55 22:34 47.7
+Trip Fredrick 06:46 18:41 14.9
+Trip Fredrick 09:56 22:28 27.4
+Driver Alena
+Trip Alena 10:05 13:07 87.0
+Trip Alena 06:22 19:32 6.4
+Driver Bethany
+Trip Bethany 12:06 17:11 39.0
+Trip Bethany 02:46 19:29 8.2
+Trip Bethany 01:38 15:48 96.4
+Trip Bethany 04:10 20:43 2.6
+Driver Sara
+Trip Sara 04:02 24:12 81.4
+Trip Sara 07:31 18:59 68.8
+Trip Sara 01:34 22:57 86.8
+Trip Sara 02:29 20:54 89.9
+Driver James
+Trip James 01:53 21:29 6.7
+Trip James 04:31 13:24 27.8
+Trip James 01:43 13:58 60.0
+Trip James 12:55 19:30 22.8
+Trip James 03:49 22:11 98.6
+Trip James 01:11 21:57 59.2
+Trip James 04:45 16:11 56.2
+Trip James 04:36 19:32 59.7
+Driver Jeanice
+Trip Jeanice 10:28 21:04 75.1
+Trip Jeanice 03:10 18:56 88.2
+Trip Jeanice 05:41 19:41 23.6
+Trip Jeanice 07:08 24:27 95.8
+Trip Jeanice 04:03 21:03 14.1
+Trip Jeanice 03:58 23:51 10.2
+Driver Lynna
+Trip Lynna 02:50 14:19 58.6
+Trip Lynna 07:02 19:13 89.1
+Trip Lynna 08:47 24:51 71.7
+Trip Lynna 02:05 22:22 34.0
+Trip Lynna 06:28 17:52 47.5
+Trip Lynna 04:01 13:54 74.7
+Trip Lynna 04:25 21:04 29.1
+Driver Chi
+Trip Chi 01:06 17:18 53.9
+Trip Chi 12:21 16:40 97.1
+Trip Chi 02:58 22:57 57.0
+Trip Chi 03:48 14:06 20.2
+Trip Chi 09:47 21:25 82.7
+Driver Frankie
+Trip Frankie 06:22 13:07 9.5
+Trip Frankie 04:27 17:27 27.6
+Trip Frankie 06:02 15:24 83.3
+Trip Frankie 06:21 22:05 27.2
+Trip Frankie 08:57 23:30 21.5
+Trip Frankie 05:17 19:40 68.8
+Trip Frankie 05:46 19:44 30.8
+Trip Frankie 10:12 13:26 27.3
+Trip Frankie 04:43 23:11 81.2
+Driver Oliver
+Trip Oliver 10:53 15:31 48.0
+Trip Oliver 02:39 19:46 41.6
+Trip Oliver 12:21 24:12 90.8
+Trip Oliver 07:47 13:22 78.1
+Trip Oliver 09:01 16:06 79.2
+Trip Oliver 02:53 13:44 12.5
+Trip Oliver 01:01 23:22 82.9
+Trip Oliver 09:33 13:49 15.1
+Trip Oliver 02:42 20:15 63.8
+Driver Jerrell
+Trip Jerrell 03:57 17:40 64.5
+Trip Jerrell 09:00 23:01 36.4
+Driver Letty
+Trip Letty 09:17 17:52 46.7
+Trip Letty 05:19 16:25 7.9
+Trip Letty 04:56 23:16 98.4
+Trip Letty 09:43 22:09 58.7
+Trip Letty 07:06 21:08 8.2
+Trip Letty 12:30 21:12 67.2
+Driver Lynelle
+Trip Lynelle 10:36 24:42 23.7
+Trip Lynelle 12:22 15:16 53.0
+Trip Lynelle 08:24 14:04 7.2
+Driver Randy
+Trip Randy 03:42 21:18 7.3
+Trip Randy 01:10 21:03 62.4
+Trip Randy 02:48 22:15 15.3
+Trip Randy 03:07 16:20 52.7
