@@ -33,5 +33,12 @@ RSpec.describe DriverReport do
 
       expect(report.split("\n").count).to eq(50)
     end
+
+    it "filters out trips that are too fast or slow" do
+      report = DriverReport.new(filepath: "./example_inputs/too_fast_or_slow.txt").generate
+
+      expected_output = "Dan: 30 miles @ 30 mph"
+      expect(report).to eq(expected_output)
+    end
   end
 end

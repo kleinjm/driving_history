@@ -35,11 +35,16 @@ class Driver
 
   private
 
+  SLOW_LIMIT = 5
+  FAST_LIMIT = 100
+
   def compute_trip_stats
     @total_miles = 0
     @total_time = 0
 
     trips.each do |trip|
+      next if trip.speed < SLOW_LIMIT || trip.speed > FAST_LIMIT
+
       @total_miles += trip.miles
       @total_time += trip.duration
     end

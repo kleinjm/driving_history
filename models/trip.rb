@@ -13,6 +13,10 @@ class Trip
     end_time - start_time
   end
 
+  def speed
+    miles / duration
+  end
+
   private
 
   def raw_time(string_time)
