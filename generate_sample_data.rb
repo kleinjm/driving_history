@@ -13,7 +13,7 @@ require "faker"
 
 File.open("example_inputs/large_dataset_50.txt", "w") do |file|
   50.times do
-    driver = Driver.new(name: Faker::Name.first_name)
+    driver = Driver.new(name: Faker::Name.unique.first_name)
     file << "Driver #{driver.name}\n"
 
     trip_count = rand(0..9)
@@ -23,9 +23,9 @@ File.open("example_inputs/large_dataset_50.txt", "w") do |file|
 
       end_time_hour = rand(13..24).to_s.rjust(2, "0")
       end_time_min = rand(0..59).to_s.rjust(2, "0")
-      miles_driven = rand(1.0..100.0).round(1)
+      miles = rand(1.0..100.0).round(1)
 
-      file << "Trip #{driver.name} #{start_time_hour}:#{start_time_min} #{end_time_hour}:#{end_time_min} #{miles_driven}\n"
+      file << "Trip #{driver.name} #{start_time_hour}:#{start_time_min} #{end_time_hour}:#{end_time_min} #{miles}\n"
     end
   end
 end

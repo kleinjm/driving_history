@@ -6,3 +6,7 @@ Upon reading the problem and seeing the example input, my first instinct is to b
 Other top of mind considerations are 1) deduping a driver if the input tries to register them twice, and 2) trip commands for drivers that are not registered. From the problem statement and example data, I assume that 1) trips all happen within a 24 hour window, 2) data is clean, ie. always properly formatted and space delimited, and 3) data is valid, ie. no negative miles or invalid timestamps.
 
 After having the basic data models, I decided not to write any logic until I had some sample and test data. I added Faker to generate some driver names and added a script to build sample data for a large amount of drivers and trips.
+
+Once all drivers and their trips are parsed out, one option is to sort the drivers, then add them to the report. The other option is to add them to the report in the proper order. The latter prevents an extra iteration of the list of drivers which is better time complexity but could be harder to understand and maintain. Therefore, I've gone with the former approach.
+
+I could have used Time when doing the time computations but that was more than what overkill for the task at hand. In the future, if more were to be done with the start and end times, it would make sense to have them as Ruby Time objects to have all the surrounding methods.
