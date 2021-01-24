@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require "./all_drivers_report"
+require "./models/all_drivers_report"
 
 RSpec.describe AllDriversReport do
   describe "#generate" do

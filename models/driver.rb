@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require "./trip_stats"
+require "./models/trip_stats"
 
 class Driver
   attr_reader :name, :trips

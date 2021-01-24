@@ -1,4 +1,4 @@
-require "./command_parser"
+require "./services/command_parser"
 require "./utils/pluralize"
 
 class AllDriversReport
