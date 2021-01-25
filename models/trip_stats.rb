@@ -13,6 +13,10 @@ class TripStats
     @total_time ||= compute_trip_stats[:total_time] || 0
   end
 
+  def average_speed
+    @average_speed ||= (total_time.zero? ? 0 : total_miles / total_time).round
+  end
+
   private
 
   attr_reader :trips
@@ -22,16 +26,16 @@ class TripStats
   private_constant :SLOW_LIMIT, :FAST_LIMIT
 
   def compute_trip_stats
-    @total_miles = 0
-    @total_time = 0
+    miles = 0
+    time = 0
 
     trips.each do |trip|
       next if trip.speed < SLOW_LIMIT || trip.speed > FAST_LIMIT
 
-      @total_miles += trip.miles
-      @total_time += trip.duration
+      miles += trip.miles
+      time += trip.duration
     end
 
-    { total_miles: @total_miles, total_time: @total_time }
+    { total_miles: miles, total_time: time }
   end
 end

@@ -1,9 +1,14 @@
 # frozen_string_literal: true
 
 require "./models/trip_stats"
+require "forwardable"
 
 class Driver
+  extend Forwardable
+
   attr_reader :name, :trips
+
+  def_delegators :trip_stats, :total_time, :total_miles, :average_speed
 
   def initialize(name:)
     @name = name
@@ -12,18 +17,6 @@ class Driver
 
   def <=>(other_driver)
     other_driver.total_miles <=> total_miles
-  end
-
-  def total_miles
-    trip_stats.total_miles
-  end
-
-  def total_time
-    trip_stats.total_time
-  end
-
-  def average_speed
-    @average_speed ||= (total_time.zero? ? 0 : total_miles / total_time).round
   end
 
   private

@@ -1,7 +1,7 @@
 require "./services/command_parser"
 require "./utils/pluralize"
 
-class AllDriversReport
+class GenerateDriversReport
   def initialize(filepath:)
     @filepath = filepath
   end
